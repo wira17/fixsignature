@@ -86,6 +86,23 @@ Dengan mekanisme ini, integritas dan keaslian dokumen dapat terjaga meskipun men
 
 ---
 
+## 📞 Kontak & Dukungan
+
+Jika ada pertanyaan, saran, atau ingin mendukung pengembangan **FixSignature**, silakan hubungi melalui:
+
+### 💰 Donasi / Dukungan Finansial
+- **Bank**: BSI  
+- **No. Rekening**: 7134197557  
+- **Atas Nama**: M. Wira Satria Buana  
+
+### 📧 Kontak
+- **Email**: wiramuhammad16@gmail.com  
+- **Telepon / WhatsApp**: 0821 7784 6209  
+
+Terima kasih atas dukungan dan kontribusinya 🙏
+
+
+
 ## 📄 Catatan
 Aplikasi ini ditujukan untuk kebutuhan internal organisasi/instansi dan **bukan merupakan Penyelenggara Sertifikat Elektronik (PSrE)**.
 
